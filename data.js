@@ -9,13 +9,25 @@ export default [
   {
     title: "5 dicas para uma carreira sólida como programador",
     artist: "Diego Fernandes",
-    cover: "5-dicas-para-uma-carreira-solida-como-programador.jpg",
-    file: "5-dicas-para-uma-carreira-solida-como-programador.mp3"
+    cover: "02.jpg",
+    file: "02.mp3"
   },
   {
     title: "Júnior Pleno ou Sênior, qual a diferença?",
     artist: "Diego Fernandes",
-    cover: "junior-pleno-ou-senior-qual-a-diferenca.jpg",
-    file: "junior-pleno-ou-senior-qual-a-diferenca.mp3"
+    cover: "03.jpg",
+    file: "03.mp3"
+  },
+  {
+    title: "Júnior Pleno ou Sênior, qual a diferença?",
+    artist: "Diego Fernandes",
+    cover: "04.jpg",
+    file: "04.mp3"
+  },
+  {
+    title: "Júnior Pleno ou Sênior, qual a diferença?",
+    artist: "Diego Fernandes",
+    cover: "05.jpg",
+    file: "05.mp3"
   }
 ];
