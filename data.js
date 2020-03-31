@@ -13,8 +13,8 @@ export default [
     file: "02.mp3"
   },
   {
-    title: "Júnior Pleno ou Sênior, qual a diferença?",
-    artist: "Diego Fernandes",
+    title: "Desaparecer sem deixar pista",
+    artist: "Where the streets have no name",
     cover: "03.jpg",
     file: "03.mp3"
   },
