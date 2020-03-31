@@ -7,8 +7,8 @@ export default [
     file: "01.mp3"
   },
   {
-    title: "5 dicas para uma carreira sólida como programador",
-    artist: "Diego Fernandes",
+    title: "Eu vou estar com você novamente",
+    artist: "New Years Day",
     cover: "02.jpg",
     file: "02.mp3"
   },
