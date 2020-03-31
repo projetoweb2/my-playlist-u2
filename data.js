@@ -1,9 +1,9 @@
 export default [
   {
     title:
-      "Como começei a programar / Por que criamos a Rocketseat / Nossa Stack",
-    artist: "Diego Fernandes",
-    cover: "como-comecei.jpg",
+      "Não te dei a opção de pular de música, para você não perder esse clássico",
+    artist: "Ramones - Pet Sematary",
+    cover: "01.jpg",
     file: "01.mp3"
   },
   {
