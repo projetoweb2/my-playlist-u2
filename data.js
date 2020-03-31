@@ -19,8 +19,8 @@ export default [
     file: "03.mp3"
   },
   {
-    title: "Júnior Pleno ou Sênior, qual a diferença?",
-    artist: "Diego Fernandes",
+    title: "Você poderia se mover neste momento",
+    artist: "Mysterious Ways",
     cover: "04.jpg",
     file: "04.mp3"
   },
