@@ -4,7 +4,7 @@ export default [
       "Como começei a programar / Por que criamos a Rocketseat / Nossa Stack",
     artist: "Diego Fernandes",
     cover: "como-comecei.jpg",
-    file: "como-comecei.mp3"
+    file: "01.mp3"
   },
   {
     title: "5 dicas para uma carreira sólida como programador",
