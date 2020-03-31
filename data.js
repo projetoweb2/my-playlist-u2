@@ -1,8 +1,8 @@
 export default [
   {
     title:
-      "Não te dei a opção de pular de música, para você não perder esse clássico",
-    artist: "Ramones - Pet Sematary",
+      "Ele podia se ver tão perto",
+    artist: "Lemon",
     cover: "01.jpg",
     file: "01.mp3"
   },
